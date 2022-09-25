@@ -4,6 +4,4 @@
 
 # Docs
 
-### 1. ERD
-
-<iframe width="800" height="336" src="https://www.erdcloud.com/p/SS3Cwjt8Px9ixtk95" frameborder="0" allowfullscreen></iframe>
+- [ERD](https://www.erdcloud.com/p/SS3Cwjt8Px9ixtk95)
