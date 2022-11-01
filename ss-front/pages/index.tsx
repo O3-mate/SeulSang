@@ -1,11 +1,16 @@
 import type { NextPage } from "next";
+import styled from "styled-components";
 
 const Home: NextPage = () => {
 	return (
 		<div>
-			<h1 className="text-3xl font-bold underline">슬기로운 생활!</h1>
+			<Test>슬기로운 생활!</Test>
 		</div>
 	);
 };
 
 export default Home;
+
+const Test = styled.h1`
+	color: ${(props) => props.theme.color.main};
+`;
